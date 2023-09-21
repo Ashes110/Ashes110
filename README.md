@@ -1,5 +1,15 @@
 ### Hi there 👋
+🌱 I’m currently learning C at 42Tokyo
 
+### I :heart: Vim
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes110&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ashes110&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashes110&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+![:Ashes110](https://count.getloli.com/get/@:nAshes110?theme=asoul)
 <!--
 **Ashes110/Ashes110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
